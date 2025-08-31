@@ -1,0 +1,25 @@
+craft_id,craft_name,subcrafts_departments,key_skills_required,certifications_qualifications,top_indian_institutions,top_foreign_institutions
+1,Story / Script Writing,"Screenwriting, Dialogue Writing, Script Supervision","Narrative structure, storytelling, screenplay format","Diploma in Screenwriting, Screenwriting workshops","FTII, Whistling Woods","UCLA, NYFA"
+2,Direction,"Assistant Director, Script Supervisor","Leadership, storytelling, shot planning, actor management","Film Direction certification, BFA/MFA in Film","FTII, Satyajit Ray Film Institute, Whistling Woods","AFI, NYFA"
+3,Production,"Line Producer, Executive Producer, Production Manager","Budgeting, scheduling, team coordination","MBA (Media), Production certification","SRFTI, Whistling Woods","Chapman University, Vancouver Film School"
+4,Cinematography,"Camera Operator, Focus Puller, Gaffer, DOP","Camera work, lighting, framing, lens knowledge",Diploma in Cinematography,"FTII, Whistling Woods","American Film Institute, MET Film School"
+5,Editing,"Assistant Editor, Color Grader","Software: Adobe Premiere, Avid, FCP; rhythm, continuity","Certified Editor (Adobe), Diploma in Film Editing","FTII, Digital Academy Mumbai, SAE Institute",NYU Tisch
+6,Art Direction,"Production Design, Set Design, Prop Design","Color theory, set layout, materials, architecture","Art Direction Diploma, Design degree","NID, FTII, Srishti Institute",SCAD
+7,Sound Design,"Foley, ADR, BGM, Mixing, Mastering","Sound mixing, acoustics, field recording",Sound Engineering Certification,"FTII, SAE Institute, KM Music Conservatory",Berklee College
+8,Music,"Composer, BGM, Arranger, Music Director","Music theory, DAWs, orchestration",Music Production Degree / Certificate,"KM Music Conservatory, SAE Institute",Berklee College of Music
+9,Costume Design,"Wardrobe Stylist, Costume Assistant","Fashion, design, textiles, cultural/historical knowledge","BFA Fashion Design, Costume Design courses","NIFT, Pearl Academy","London College of Fashion, FIDM"
+10,Makeup,"Hair, Prosthetics, SFX","Cosmetics, skin types, prosthetics",Diploma in Makeup Artistry,"Kryolan Academy, Pearl Academy",Cinema Makeup School
+11,Choreography,"Dance Director, Movement Coach","Dance styles, timing, spatial awareness",Choreography/Dance Training,"Terence Lewis Academy, NSD",Broadway Dance Center
+12,Acting,"Lead Actor, Supporting, Extra","Body language, voice modulation, improvisation","Acting Diploma, Drama School","NSD, FTII","Lee Strasberg, RADA"
+13,Stunts,"Fight Choreographer, Stunt Performer","Physical training, martial arts, rigging, safety","Stunt Certification, Gymnastics training",Koothu-P-Pattarai,"Jackie Chan Stunt School, SAFPA"
+14,VFX (Visual Effects),"Compositor, CGI Artist, Simulation Expert","Nuke, After Effects, Maya, Blender, Houdini","VFX Certification, Diploma in VFX",Arena Animation,"Gnomon School, Vancouver Film School"
+15,Animation,"2D, 3D, Rigging, Layout","Drawing, motion, software like Maya, Blender",Diploma in Animation,MAAC,"CalArts, Sheridan College"
+16,Graphics / Titles,"Motion Graphics, Title Designer","Typography, motion, After Effects, Premiere",Motion Graphics course,"Arena Animation, FX School",School of Visual Arts
+17,Lighting,"Gaffer, Lighting Designer","Lighting techniques, safety, light mood design","Practical Training, Lighting Workshops","FTII, Light & Sound Academy",NYU Tisch
+18,Set Properties,"Prop Master, Set Decorator","Procurement, history, object construction",On-the-job training,"FTII, SRFTI, NID",SVA
+19,Still Photography,"Set Photographer, Poster Designer","DSLR usage, lighting, framing",Photography course,National Institute of Photography,"NYIP, ICP"
+20,Publicity / Promotion,"PR Manager, Trailer Editor, Social Media","Marketing, branding, analytics","MBA Media, Digital Marketing Certification","MICA, ISB",USC Annenberg
+21,Production Management,"Unit Manager, Scheduler, Line Producer","Management, logistics, negotiation",Film Management Certification,"FTII, SRFTI, Whistling Woods",NYFA
+22,Subtitling / Dubbing,"Dubbing Artist, Subtitler, Translator","Voice, timing, multilingual fluency",Voiceover / Dubbing Training,"NSD, AAFT",Edge Studio
+23,Color Grading,"Colorist, DI Technician","DaVinci Resolve, LUTs, tonal correction",DaVinci Resolve Certification,FX School,"Color Grading Central, NYFA"
+24,Distribution,"Distributor, Sales Agent, OTT Planner","Sales, market knowledge, film rights","MBA Media, Distribution certification","MICA, ISB",UCLA Extension
